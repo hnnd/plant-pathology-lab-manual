@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/plant-pathology-lab-manual.git"
+    "url": "https://github.com/hnnd/plant-pathology-lab-manual.git"
   },
   "keywords": [
     "植物病理学",
@@ -27,7 +27,7 @@
   "author": "植物病理学教学团队",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/username/plant-pathology-lab-manual/issues"
+    "url": "https://github.com/hnnd/plant-pathology-lab-manual/issues"
   },
-  "homepage": "https://github.com/username/plant-pathology-lab-manual#readme"
+  "homepage": "https://github.com/hnnd/plant-pathology-lab-manual#readme"
 }
