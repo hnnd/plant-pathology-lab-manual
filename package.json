@@ -4,12 +4,12 @@
   "description": "植物病理学实验指导手册 - Plant Pathology Laboratory Manual",
   "main": "index.js",
   "scripts": {
-    "serve": "gitbook serve",
-    "build": "gitbook build",
-    "install": "gitbook install",
-    "pdf": "gitbook pdf . ./植物病理学实验指导手册.pdf",
-    "epub": "gitbook epub . ./植物病理学实验指导手册.epub",
-    "mobi": "gitbook mobi . ./植物病理学实验指导手册.mobi"
+    "serve": "honkit serve",
+    "build": "honkit build",
+    "install": "honkit install",
+    "pdf": "honkit pdf . ./植物病理学实验指导手册.pdf",
+    "epub": "honkit epub . ./植物病理学实验指导手册.epub",
+    "mobi": "honkit mobi . ./植物病理学实验指导手册.mobi"
   },
   "repository": {
     "type": "git",
@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/hnnd/plant-pathology-lab-manual/issues"
   },
-  "homepage": "https://github.com/hnnd/plant-pathology-lab-manual#readme"
+  "homepage": "https://github.com/hnnd/plant-pathology-lab-manual#readme",
+  "dependencies": {
+    "honkit": "^6.0.3"
+  }
 }

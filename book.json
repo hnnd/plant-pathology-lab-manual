@@ -8,34 +8,8 @@
     "readme": "README.md",
     "summary": "SUMMARY.md"
   },
-  "plugins": [
-    "prism",
-    "github",
-    "katex",
-    "search-pro",
-    "expandable-chapters",
-    "anchor-navigation-ex"
-  ],
-  "pluginsConfig": {
-    "github": {
-      "url": "https://github.com/hnnd/plant-pathology-lab-manual"
-    },
-    "anchor-navigation-ex": {
-      "showLevel": false,
-      "associatedWithSummary": true,
-      "printLog": false,
-      "multipleH1": true,
-      "mode": "float",
-      "showGoTop": true,
-      "float": {
-        "floatIcon": "fa fa-navicon",
-        "showLevelIcon": false,
-        "level1Icon": "fa fa-hand-o-right",
-        "level2Icon": "fa fa-hand-o-right",
-        "level3Icon": "fa fa-hand-o-right"
-      }
-    }
-  },
+  "plugins": [],
+  "pluginsConfig": {},
   "variables": {
     "version": "1.0.0"
   }
