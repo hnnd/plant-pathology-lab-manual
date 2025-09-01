@@ -1,0 +1,42 @@
+{
+  "title": "植物病理学实验指导手册",
+  "description": "Plant Pathology Laboratory Manual - 涵盖基础到高级的植物病理学实验技术指导",
+  "author": "植物病理学教学团队",
+  "language": "zh",
+  "gitbook": "3.2.3",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "prism",
+    "github",
+    "katex",
+    "search-pro",
+    "expandable-chapters",
+    "anchor-navigation-ex"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/username/plant-pathology-lab-manual"
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false,
+      "associatedWithSummary": true,
+      "printLog": false,
+      "multipleH1": true,
+      "mode": "float",
+      "showGoTop": true,
+      "float": {
+        "floatIcon": "fa fa-navicon",
+        "showLevelIcon": false,
+        "level1Icon": "fa fa-hand-o-right",
+        "level2Icon": "fa fa-hand-o-right",
+        "level3Icon": "fa fa-hand-o-right"
+      }
+    }
+  },
+  "variables": {
+    "version": "1.0.0"
+  }
+}
